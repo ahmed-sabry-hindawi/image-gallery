@@ -3,6 +3,7 @@ import './App.css'
 import Imagegallery from './components/Imagegallery'
 
 function App() {
+  // images used in the gallery
   const imgs = [
     { alt: "img1", url: "/images/img1.jpg" },
     { alt: "img2", url: "/images/img2.jpg" },
